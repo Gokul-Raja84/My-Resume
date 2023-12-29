@@ -264,9 +264,6 @@ const OutputWindow = () => {
                   </span>
                 </div>
                 <div className="projectDescription | pl-6">
-                  <p class="c10">
-                    <span class="c33 c27 c30"></span>
-                  </p>
                   <ul class="mt-2 list-disc">
                     <li class="mt-1 text-sm leading-[1.2rem] text-gray-600">
                       <span class="c2">Conducted Spotify EDA using</span>
