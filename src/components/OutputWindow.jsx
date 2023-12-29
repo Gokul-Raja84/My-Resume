@@ -290,7 +290,8 @@ const OutputWindow = () => {
                   <span class="c11 c14">
                     <a
                       class="c22"
-                      href="https://www.google.com/url?q=https://gokul-raja84.github.io/DigitGlyph/&amp;sa=D&amp;source=editors&amp;ust=1703786697936159&amp;usg=AOvVaw2WQD1kPTyWjV-IqZYdpYVi"
+                      href="https://math-scribble.netlify.app/"
+                      target="_blank"
                     >
                       - Web |
                     </a>
@@ -298,7 +299,8 @@ const OutputWindow = () => {
                   <span class="c11 c14">
                     <a
                       class="c22"
-                      href="https://www.google.com/url?q=https://gokul-raja84.github.io/DigitGlyph/&amp;sa=D&amp;source=editors&amp;ust=1703786697936159&amp;usg=AOvVaw2WQD1kPTyWjV-IqZYdpYVi"
+                      href="https://github.com/Gokul-Raja84/MATH-SCRIBBLE"
+                      target="_blank"
                     >
                       {" "}
                       Github
