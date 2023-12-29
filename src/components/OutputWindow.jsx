@@ -287,10 +287,23 @@ const OutputWindow = () => {
               <div className="project | mt-2">
                 <div className="projectTitle">
                   <span className="font-semibold">Math Scribble </span>
-                  <a href="#" className="link | text-blue-500 underline">
-                    Web
-                  </a>
-                  <span> | Github</span>
+                  <span class="c11 c14">
+                    <a
+                      class="c22"
+                      href="https://www.google.com/url?q=https://gokul-raja84.github.io/DigitGlyph/&amp;sa=D&amp;source=editors&amp;ust=1703786697936159&amp;usg=AOvVaw2WQD1kPTyWjV-IqZYdpYVi"
+                    >
+                      - Web |
+                    </a>
+                  </span>
+                  <span class="c11 c14">
+                    <a
+                      class="c22"
+                      href="https://www.google.com/url?q=https://gokul-raja84.github.io/DigitGlyph/&amp;sa=D&amp;source=editors&amp;ust=1703786697936159&amp;usg=AOvVaw2WQD1kPTyWjV-IqZYdpYVi"
+                    >
+                      {" "}
+                      Github
+                    </a>
+                  </span>
                 </div>
                 <div className="projectDescription | pl-6">
                   <ul className="mt-2 list-disc">
@@ -316,9 +329,14 @@ const OutputWindow = () => {
                   <span className="font-semibold">
                     Dynamic Power BI Dashboards{" "}
                   </span>
-                  <a href="#" className="link | text-blue-500 underline">
-                    link
-                  </a>
+                  <span class="c11 c14">
+                    <a
+                      class="c22"
+                      href="https://www.google.com/url?q=https://gokul-raja84.github.io/DigitGlyph/&amp;sa=D&amp;source=editors&amp;ust=1703786697936159&amp;usg=AOvVaw2WQD1kPTyWjV-IqZYdpYVi"
+                    >
+                      - Github
+                    </a>
+                  </span>
                 </div>
                 <div className="projectDescription | pl-6">
                   <ul className="mt-2 list-disc">
