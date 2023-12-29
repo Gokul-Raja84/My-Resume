@@ -1,7 +1,7 @@
 const OutputWindow = () => {
   return (
     <div className="outputWindowContainer | flex h-full w-full items-center justify-center p-8">
-      <div className="outputWindow | w-[700px] bg-white [aspect-ratio:1/1.414]">
+      <div className="outputWindow | w-[750px] bg-white [aspect-ratio:1/1.414]">
         <div className="mainContainer | flex h-full gap-6 py-16 px-10">
           <div className="column | w-[50%]">
             <div className="fullName | whitespace-nowrap text-5xl font-semibold text-blue-600">
