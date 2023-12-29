@@ -319,9 +319,31 @@ const OutputWindow = () => {
                         &nbsp;Recognition &amp; Calculation System using{" "}
                       </span>
                       <span class="c2 c4">Deep Learning </span>
-                      <span class="c7 c2">
-                        for Students and Vision impairment people.
+                      <span class="c7 c2">for Students and Educators.</span>
+                    </li>
+                    <li class="mt-1 text-sm leading-[1.2rem] text-gray-600">
+                      <span class="c2">
+                        Engineered Deep Learning technologies,{" "}
                       </span>
+                      <span class="c2 c4">
+                        <strong>TensorFlow</strong>
+                      </span>
+                      <span class="c2">, PyTorch, and </span>
+                      <span class="c2 c4">
+                        <strong>Bidirectionally Trained Transformer</strong>
+                      </span>
+                      <span class="c2"> and </span>
+                      <span class="c2 c4">
+                        <strong>Node.js</strong>
+                      </span>
+                      <span class="c2">
+                        , making math expression recognition and calculation
+                        seamlessly accessible and efficient to{" "}
+                      </span>
+                      <span class="c2 c4">
+                        <strong>Students</strong>
+                      </span>
+                      .
                     </li>
                   </ul>
                 </div>
