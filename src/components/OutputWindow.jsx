@@ -379,6 +379,32 @@ const OutputWindow = () => {
                 </div>
               </div>
             </div>
+            <div className="sectionTitle | font-semibold text-blue-600">
+              Achievements
+            </div>
+            <div className="project | mt-2">
+              <div className="projectTitle">
+                <span className="font">DEPARTMENT REPRESENTATIVE </span>
+                {/* <span class="c11 c14">
+                  <a
+                    class="c22"
+                    href="https://www.google.com/url?q=https://gokul-raja84.github.io/DigitGlyph/&amp;sa=D&amp;source=editors&amp;ust=1703786697936159&amp;usg=AOvVaw2WQD1kPTyWjV-IqZYdpYVi"
+                  >
+                    - Github
+                  </a>
+                </span> */}
+              </div>
+              <div className="projectDescription | pl-6">
+                <ul className="mt-2 list-disc">
+                  <li class="mt-1 text-sm leading-[1.2rem] text-gray-600">
+                    <span class="c2">
+                      Served as one of the Department Representative for the IT
+                      Department.{" "}
+                    </span>
+                  </li>
+                </ul>
+              </div>
+            </div>
           </div>
         </div>
       </div>
