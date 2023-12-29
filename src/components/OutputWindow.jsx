@@ -369,10 +369,9 @@ const OutputWindow = () => {
                       <span class="c2 c4">Interactive </span>
                       <span class="c2">Dashboards in </span>
                       <span class="c2 c4">POWER BI</span>
-                      <span class="c2">
-                        &nbsp;using Data Analysis, Data Modeling and Data
-                        Visualization along with{" "}
-                      </span>
+                      <span class="c2">&nbsp;using Data Analysis, </span>
+                      <span class="c2 c4">Data Modeling</span>
+                      <span> and Data Visualization along with </span>
                       <span class="c2 c4">Forecasting</span>
                       <span class="c2">.</span>
                     </li>
