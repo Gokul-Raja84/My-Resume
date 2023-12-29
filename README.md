@@ -1,42 +1,51 @@
 # My Resume
 
-This is a personal resume/portfolio project created using React, Tailwind CSS, and Vite. The project is hosted on GitHub Pages.
+Built with React, Tailwind CSS, and Vite, this is My Resume. It's live on GitHub Pages for easy access.
 
 ## Live Demo
 
-🚀 [Live Demo](https://gokul-raja84.github.io/My-Resume/)
+Check out at - [Live Demo](https://gokul-raja84.github.io/My-Resume/)
 
 ## Technologies Used
 
-- React: A JavaScript library for building user interfaces.
-- Tailwind CSS: A utility-first CSS framework.
-- Vite: A fast build tool that leverages ESBuild.
+- **React**: Experience a Dynamic User Interface powered by React.
+- **Tailwind CSS**: Stylishly designed with Tailwind.
+- **Vite**: Swift development and build times with Vite.
 
 ## Features
 
-- Professional and responsive resume layout.
-- Customized styling using Tailwind CSS.
-- Deployment on GitHub Pages for easy access.
+- **Professional and Responsive Layout**: Navigate through a carefully designed layout highlighting my professional narrative.
+- **Customized Styling**: Tailwind CSS customization ensures a unique and visually appealing presentation.
+- **GitHub Pages Deployment**: Easily accessible on GitHub Pages for a seamless exploration.
 
 ## Getting Started
 
-To run this project locally, follow these steps:
+Embark on your own journey:
 
-1. Clone the repository
+1. **Clone the Repository**
+    ```bash
+    git clone https://github.com/gokul-raja84/My-Resume.git
+    ```
 
-2. Install dependencies
+2. **Install Dependencies**
+    ```bash
+    cd My-Resume
+    npm install
+    ```
 
-3. Run the development server
-   
- Open your browser and visit [http://localhost:3000](http://localhost:3000) to view the project.
+3. **Run the Development Server**
+    ```bash
+    npm run dev
+    ```
+    Open your browser and visit [http://localhost:3000](http://localhost:3000) to view the project.
 
 ## Deployment
 
-The project is deployed using GitHub Pages. Any changes pushed to the `main` branch will automatically trigger a new deployment.
+Automatically deployed on GitHub Pages with updates pushed to the `main` branch.
 
 ## Contributing
 
-Contributions are welcome! If you find a bug or have a suggestion, please open an issue or create a pull request.
+Contributions are welcome ! If you spot a bug or have ideas to enhance the experience, open an issue or craft a pull request.
 
 ## License
 
@@ -44,4 +53,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Acknowledgments
 
-- Thank you to the open-source community for providing the amazing tools used in this project.
+Thanks to the open-source community for the tools used in this project.
