@@ -145,7 +145,11 @@ const OutputWindow = () => {
               <div className="socialLinkList | mt-1 pl-4">
                 <div className="socialLink text-sm font-semibold leading-[1.2rem] text-gray-800">
                   Linkedin{" "}
-                  <a href="#" className="link | text-blue-500 underline">
+                  <a
+                    href="https://www.linkedin.com/in/gokulraja84/"
+                    target="_blank"
+                    className="link | text-blue-500 underline"
+                  >
                     link
                   </a>
                 </div>
@@ -171,7 +175,11 @@ const OutputWindow = () => {
                 </div>
                 <div className="socialLink text-sm font-semibold leading-[1.2rem] text-gray-800">
                   HackerRank{" "}
-                  <a href="#" className="link | text-blue-500 underline">
+                  <a
+                    href="https://www.hackerrank.com/profile/gokulraja840"
+                    target="_blank"
+                    className="link | text-blue-500 underline"
+                  >
                     link
                   </a>
                 </div>
@@ -192,6 +200,7 @@ const OutputWindow = () => {
               <a href="https://gokulraja.rocks/" target="_blank">
                 www.gokulraja.rocks
               </a>
+              <div>Chennai, Tamil Nadu</div>
             </div>
 
             <div className="projectSection | mt-10">
@@ -204,7 +213,8 @@ const OutputWindow = () => {
                   <span class="c11 c14">
                     <a
                       class="c22"
-                      href="https://www.google.com/url?q=https://gokul-raja84.github.io/DigitGlyph/&amp;sa=D&amp;source=editors&amp;ust=1703786697936159&amp;usg=AOvVaw2WQD1kPTyWjV-IqZYdpYVi"
+                      href="https://gokul-raja84.github.io/DigitGlyph/"
+                      target="_blank"
                     >
                       - Web App
                     </a>
@@ -246,7 +256,8 @@ const OutputWindow = () => {
                   <span class="c11 c14">
                     <a
                       class="c22"
-                      href="https://www.google.com/url?q=https://gokul-raja84.github.io/DigitGlyph/&amp;sa=D&amp;source=editors&amp;ust=1703786697936159&amp;usg=AOvVaw2WQD1kPTyWjV-IqZYdpYVi"
+                      href="https://github.com/Gokul-Raja84/Spotify-Data-Analysis"
+                      target="_blank"
                     >
                       - Github
                     </a>
@@ -356,7 +367,8 @@ const OutputWindow = () => {
                   <span class="c11 c14">
                     <a
                       class="c22"
-                      href="https://www.google.com/url?q=https://gokul-raja84.github.io/DigitGlyph/&amp;sa=D&amp;source=editors&amp;ust=1703786697936159&amp;usg=AOvVaw2WQD1kPTyWjV-IqZYdpYVi"
+                      href="https://github.com/Gokul-Raja84/Power-BI-Interactive-Dashboard-Projects"
+                      target="_blank"
                     >
                       - Github
                     </a>
@@ -398,7 +410,7 @@ const OutputWindow = () => {
                 <ul className="mt-2 list-disc">
                   <li class="mt-1 text-sm leading-[1.2rem] text-gray-600">
                     <span class="c2">
-                      Served as one of the Department Representative for the IT
+                      Served as one of the Department Representatives for the IT
                       Department.{" "}
                     </span>
                   </li>
