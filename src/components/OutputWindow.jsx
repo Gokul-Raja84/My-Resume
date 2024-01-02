@@ -144,43 +144,43 @@ const OutputWindow = () => {
               </div>
               <div className="socialLinkList | mt-1 pl-4">
                 <div className="socialLink text-sm font-semibold leading-[1.2rem] text-gray-800">
-                  Linkedin{" "}
+                  Linkedin -{" "}
                   <a
                     href="https://www.linkedin.com/in/gokulraja84/"
                     target="_blank"
                     className="link | text-blue-500 underline"
                   >
-                    link
+                    gokulraja
                   </a>
                 </div>
                 <div className="socialLink text-sm font-semibold leading-[1.2rem] text-gray-800">
-                  Github{" "}
+                  Github -{" "}
                   <a
                     href="https://github.com/Gokul-Raja84"
                     target="_blank"
                     className="link | text-blue-500 underline"
                   >
-                    link
+                    Gokul-Raja84
                   </a>
                 </div>
                 <div className="socialLink text-sm font-semibold leading-[1.2rem] text-gray-800">
-                  Portfolio{" "}
+                  Portfolio -{" "}
                   <a
                     href="https://gokulraja.rocks/"
                     target="_blank"
                     className="link | text-blue-500 underline"
                   >
-                    link
+                    gokulraja.rocks
                   </a>
                 </div>
                 <div className="socialLink text-sm font-semibold leading-[1.2rem] text-gray-800">
-                  HackerRank{" "}
+                  HackerRank -{" "}
                   <a
                     href="https://www.hackerrank.com/profile/gokulraja840"
                     target="_blank"
                     className="link | text-blue-500 underline"
                   >
-                    link
+                    Gokulraja840
                   </a>
                 </div>
               </div>
