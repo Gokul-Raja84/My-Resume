@@ -5,7 +5,13 @@ const OutputWindow = () => {
         <div className="mainContainer | flex h-full gap-6 py-16 px-10">
           <div className="column | w-[50%]">
             <div className="fullName | whitespace-nowrap text-5xl font-semibold text-blue-600">
-              Gokul Raja A
+              <a
+                href="https://gokul-raja84.github.io/My-Resume/"
+                target="_blank"
+              >
+                {" "}
+                Gokul Raja A{" "}
+              </a>
             </div>
             <div className="">
               <p class="c63">
@@ -33,7 +39,7 @@ const OutputWindow = () => {
                   </span>
                 </div>
                 <div className="workPeriod | text-xs text-gray-700">
-                  JUly 23 - Dec 23
+                  July 23 - Oct 23
                 </div>
                 <div className="workDescription | pl-6">
                   <ul className="list-disc">
