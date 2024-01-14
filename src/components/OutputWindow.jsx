@@ -188,6 +188,18 @@ const OutputWindow = () => {
                 </div>
               </div>
             </div>
+            <br />
+            <div className="sectionTitle | font-semibold text-blue-600">
+              Position
+            </div>
+            <div class="mt-1 text-sm leading-[1.2rem] text-gray-600">
+              <span class="c2">Served as one of the </span>
+              <span class="c2 c4">Department Representative </span>
+              <span class="c2">
+                of IT Department and member of Google Student Developer <br />
+                Club SRMIST.
+              </span>
+            </div>
           </div>
           <div className="column | w-[50%]">
             <div className="contactSection | flex flex-col items-end text-xs font-semibold text-gray-600">
