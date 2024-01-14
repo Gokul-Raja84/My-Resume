@@ -1,7 +1,7 @@
 const OutputWindow = () => {
   return (
     <div className="outputWindowContainer | flex h-full w-full items-center justify-center p-8">
-      <div className="outputWindow | w-[750px] bg-white [aspect-ratio:1/1.414]">
+      <div className="outputWindow | w-[750px] bg-white [aspect-ratio:1/1.5]">
         <div className="mainContainer | flex h-full gap-6 py-16 px-10">
           <div className="column | w-[50%]">
             <div className="fullName | whitespace-nowrap text-5xl font-semibold text-blue-600">
@@ -15,66 +15,10 @@ const OutputWindow = () => {
             </div>
             <div className="">
               <p class="c63">
-                <span class="c12 c4 c67">
-                  Data Analyst and Backend Developer
-                </span>
+                <span class="c12 c4 c67">Backend Developer & Data Analyst</span>
               </p>
             </div>
-
-            <div className="workExperienceSection | mt-10">
-              <div className="sectionTitle | font-semibold text-blue-600">
-                EXPERIENCE
-              </div>
-              <div className="workExperience | mt-1">
-                <div className="workTitle">
-                  <span className="font-semibold">Creative Strategist </span>
-                  <span class="c14 c26 c62">
-                    <a
-                      class="c22"
-                      href="https://cosmiccrafts.netlify.app/"
-                      target="_blank"
-                    >
-                      - Cosmic Crafts
-                    </a>
-                  </span>
-                </div>
-                <div className="workPeriod | text-xs text-gray-700">
-                  July 23 - Oct 23
-                </div>
-                <div className="workDescription | pl-6">
-                  <ul className="list-disc">
-                    <li className="mt-1 text-sm leading-[1.2rem] text-gray-600">
-                      Community of Students, Leading collaborative teams in
-                      creative direction, concept development, and client
-                      engagement for progressive design solutions.
-                    </li>
-                  </ul>
-                </div>
-              </div>
-            </div>
-
-            <div className="skillSection  | mt-10">
-              <div className="sectionTitle | font-semibold text-blue-600">
-                SKILLS
-              </div>
-              <div className="skillList">
-                <div className="skill text-sm font-semibold leading-[1.2rem] text-gray-800">
-                  Machine Learning, Data Analysis, AWS, Power BI, UI/UX, Quick
-                  Learner, Adaptive Problem-Solver, Efficient communication
-                </div>
-              </div>
-            </div>
-
-            <div className="languageSection  | mt-10">
-              <div className="sectionTitle | font-semibold text-blue-600">
-                LANGUAGES
-              </div>
-              <div className="languageList">
-                <div className="language text-sm font-semibold leading-[1.2rem] text-gray-800">
-                  Python, SQL, Javascript, Node.js
-                </div>
-              </div>
-            </div>
+            <br />
 
             <div className="educationSection | mt-10">
               <div className="sectionTitle | font-semibold text-blue-600">
@@ -92,7 +36,7 @@ const OutputWindow = () => {
                 <div className="educationDescription | pl-4">
                   <ul>
                     <li className="text-sm leading-[1.2rem] text-gray-600">
-                      B.Tech Information Technology
+                      B.Tech <span className="c4">Information Technology</span>
                     </li>
                     <li className="500 text-xs leading-normal">
                       <a className="text-xs leading-normal text-gray-500">
@@ -144,6 +88,59 @@ const OutputWindow = () => {
                 </div>
               </div>
             </div>
+
+            <div className="workExperienceSection | mt-10">
+              <div className="sectionTitle | font-semibold text-blue-600">
+                EXPERIENCE
+              </div>
+              <div className="workExperience | mt-1">
+                <div className="workTitle">
+                  <span className="font-semibold">Creative Strategist </span>
+                  <span class="c14 c26 c62">
+                    <a
+                      class="c22"
+                      href="https://cosmiccrafts.netlify.app/"
+                      target="_blank"
+                    >
+                      - Cosmic Crafts
+                    </a>
+                  </span>
+                </div>
+                <div className="workPeriod | text-xs text-gray-700">
+                  July 23 - Oct 23
+                </div>
+                <div className="workDescription | pl-6">
+                  <ul className="list-disc">
+                    <li className="mt-1 text-sm leading-[1.2rem] text-gray-600">
+                      Community of Students, Leading collaborative teams in
+                      creative direction, concept development, and client
+                      engagement for progressive design solutions.
+                    </li>
+                  </ul>
+                </div>
+              </div>
+            </div>
+
+            <div className="skillSection | mt-10">
+              <div className="sectionTitle | font-semibold text-blue-600">
+                SKILLS
+              </div>
+              <div className="skillList">
+                <div className="skill text-sm font-semibold leading-[1.2rem] text-gray-800">
+                  Python - SQL <br />
+                  Machine Learning - JavaScript <br />
+                  Data Analysis - Power BI - UI/UX <br />
+                  <br /> Attentive learner - Analytical Thinker - <br />
+                  Persuasive Communication
+                  <br />
+                  <br />
+                  <span className="c4 c2"> Familiar:</span>
+                  <br />
+                  AWS, Excel, Node.js, API
+                </div>
+              </div>
+            </div>
+
             <div className="socialLinkSection  | mt-10 pt-2">
               <div className="sectionTitle | font-semibold text-blue-600">
                 SOCIAL LINKS
@@ -232,7 +229,9 @@ const OutputWindow = () => {
                 <div className="projectDescription | pl-6">
                   <ul class="mt-2 list-disc">
                     <li class="mt-1 text-sm leading-[1.2rem] text-gray-600">
-                      <span class="c2">Developed a web application using </span>
+                      <span class="c2">
+                        Developed a Machine Learning web application using{" "}
+                      </span>
                       <span class="c2 c4">Python </span>
                       <span class="c2">and </span>
                       <span class="c2 c4">CNNs </span>
@@ -300,14 +299,14 @@ const OutputWindow = () => {
               </div>
               <div className="project | mt-2">
                 <div className="projectTitle">
-                  <span className="font-semibold">Math Scribble </span>
+                  <span className="font-semibold">ImaGenX </span>
                   <span class="c11 c14">
                     <a
                       class="c22"
                       href="https://math-scribble.netlify.app/"
                       target="_blank"
                     >
-                      - Web |
+                      -
                     </a>
                   </span>
                   <span class="c11 c14">
@@ -324,40 +323,27 @@ const OutputWindow = () => {
                 <div className="projectDescription | pl-6">
                   <ul className="mt-2 list-disc">
                     <li class="mt-1 text-sm leading-[1.2rem] text-gray-600">
-                      <span class="c2">Developed a &nbsp;</span>
-                      <span class="c2 c4">Real time</span>
-                      <span class="c2">&nbsp;</span>
-                      <span class="c2">Handwritten </span>
-                      <span class="c2 c4">Math Expressions</span>
                       <span class="c2">
-                        &nbsp;Recognition &amp; Calculation System using{" "}
+                        Engineered a Text to Image generation, ImaGenX,
+                        integrated advanced technologies, including Google's{" "}
                       </span>
-                      <span class="c2 c4">Deep Learning </span>
-                      <span class="c7 c2">for Students and Educators.</span>
+                      <span class="c2 c4">Vertex AI </span>
+                      <span class="c2">& </span>
+                      <span class="c2 c4">Imagen 2 API,</span>
+                      <span class="c2">
+                        for efficient <span class="c2 c4">AI</span> Image
+                        Generation.
+                      </span>
                     </li>
                     <li class="mt-1 text-sm leading-[1.2rem] text-gray-600">
-                      <span class="c2">
-                        Engineered Deep Learning technologies,{" "}
-                      </span>
+                      <span class="c2">Designed and implemented a </span>
                       <span class="c2 c4">
-                        <strong>TensorFlow</strong>
-                      </span>
-                      <span class="c2">, PyTorch, and </span>
-                      <span class="c2 c4">
-                        <strong>Bidirectionally Trained Transformer</strong>
-                      </span>
-                      <span class="c2"> and </span>
-                      <span class="c2 c4">
-                        <strong>Node.js</strong>
+                        <strong>Full-stack </strong>
                       </span>
                       <span class="c2">
-                        , making math expression recognition and calculation
-                        seamlessly accessible and efficient to{" "}
+                        solution for ImaGenX, combined JavaScript on front end
+                        with Node.js on the back end.
                       </span>
-                      <span class="c2 c4">
-                        <strong>Students</strong>
-                      </span>
-                      .
                     </li>
                   </ul>
                 </div>
@@ -394,12 +380,21 @@ const OutputWindow = () => {
                 </div>
               </div>
             </div>
+            <br />
             <div className="sectionTitle | font-semibold text-blue-600">
-              Achievements
+              RESEARCH & PROPOSAL
             </div>
             <div className="project | mt-2">
               <div className="projectTitle">
-                <span className="font">DEPARTMENT REPRESENTATIVE </span>
+                <span className="font-semibold">MATH SCRIBBLE | </span>
+                <span className="educationPeriod | text-xs text-gray-700">
+                  July 23 - Nov 23
+                </span>
+                <br />
+                <span class="socialLink text-sm font-semibold leading-[1.2rem] text-gray-800">
+                  HEAD UNDERGRADUATE RESEARCHER
+                </span>
+
                 {/* <span class="c11 c14">
                   <a
                     class="c22"
@@ -409,16 +404,23 @@ const OutputWindow = () => {
                   </a>
                 </span> */}
               </div>
-              <div className="projectDescription | pl-6">
-                <ul className="mt-2 list-disc">
-                  <li class="mt-1 text-sm leading-[1.2rem] text-gray-600">
-                    <span class="c2">
-                      Served as one of the Department Representatives for the IT
-                      Department.{" "}
-                    </span>
-                  </li>
-                </ul>
+              {/* <div className="projectDescription | pl-6"> */}
+              {/* <ul className="mt-2 list-disc"> */}
+              <div class="mt-1 text-sm leading-[1.2rem] text-gray-600">
+                <span class="c2">Led the development of a </span>
+                <span class="c2 c4">
+                  Real-time Handwritten Math Expressions Recognition &
+                  Calculation System{" "}
+                </span>
+                <span class="c2">
+                  using Deep Learning, catering to the needs of both
+                  <span class="c2 c4"> Students</span> and Educators and
+                  Proposed it at <span class="c2 c4">TNSCST </span>Student
+                  Proposal.
+                </span>
               </div>
+              {/* </ul> */}
+              {/* </div> */}
             </div>
           </div>
         </div>
