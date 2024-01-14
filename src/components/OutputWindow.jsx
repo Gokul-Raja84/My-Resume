@@ -206,8 +206,8 @@ const OutputWindow = () => {
               <div>Chennai, Tamil Nadu</div>
             </div>
 
-            <div className="projectSection | mt-10">
-              <div className="sectionTitle | font-semibold text-blue-600">
+            <div className="projectSection |  mt-6">
+              <div className="sectionTitle |  font-semibold text-blue-600">
                 PROJECTS
               </div>
               <div className="project | mt-2">
