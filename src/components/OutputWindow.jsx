@@ -89,7 +89,7 @@ const OutputWindow = () => {
               </div>
             </div>
 
-            <div className="workExperienceSection | mt-10">
+            <div className="workExperienceSection | mt-6">
               <div className="sectionTitle | font-semibold text-blue-600">
                 EXPERIENCE
               </div>
@@ -121,7 +121,7 @@ const OutputWindow = () => {
               </div>
             </div>
 
-            <div className="skillSection | mt-10">
+            <div className="skillSection | mt-5">
               <div className="sectionTitle | font-semibold text-blue-600">
                 SKILLS
               </div>
@@ -141,7 +141,7 @@ const OutputWindow = () => {
               </div>
             </div>
 
-            <div className="socialLinkSection  | mt-10 pt-2">
+            <div className="socialLinkSection  | mt-8 pt-2">
               <div className="sectionTitle | font-semibold text-blue-600">
                 SOCIAL LINKS
               </div>
