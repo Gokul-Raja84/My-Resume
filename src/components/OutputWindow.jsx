@@ -324,7 +324,7 @@ const OutputWindow = () => {
                   <span class="c11 c14">
                     <a
                       class="c22"
-                      href="https://github.com/Gokul-Raja84/MATH-SCRIBBLE"
+                      href="https://github.com/Gokul-Raja84/ImaGenX-AI"
                       target="_blank"
                     >
                       {" "}
