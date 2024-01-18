@@ -131,7 +131,7 @@ const OutputWindow = () => {
                   Machine Learning - JavaScript <br />
                   Data Analysis - Power BI - UI/UX <br />
                   <br /> Attentive learner - Analytical Thinker - <br />
-                  Persuasive Communication
+                  Articulate Communication
                   <br />
                   <br />
                   <span className="c4 c2"> Familiar:</span>
