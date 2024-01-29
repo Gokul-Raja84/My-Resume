@@ -143,10 +143,10 @@ const OutputWindow = () => {
 
             <div className="socialLinkSection  | mt-8 pt-2">
               <div className="sectionTitle | font-semibold text-blue-600">
-                SOCIAL LINKS
+                COURSE WORK
               </div>
               <div className="socialLinkList | mt-1 pl-4">
-                <div className="socialLink text-sm font-semibold leading-[1.2rem] text-gray-800">
+                {/* <div className="socialLink text-sm font-semibold leading-[1.2rem] text-gray-800">
                   Linkedin -{" "}
                   <a
                     href="https://www.linkedin.com/in/gokulraja84/"
@@ -185,7 +185,7 @@ const OutputWindow = () => {
                   >
                     Gokulraja840
                   </a>
-                </div>
+                </div> */}
               </div>
             </div>
             <br />
@@ -242,7 +242,7 @@ const OutputWindow = () => {
                   <ul class="mt-2 list-disc">
                     <li class="mt-1 text-sm leading-[1.2rem] text-gray-600">
                       <span class="c2">
-                        Developed a Machine Learning web application using{" "}
+                        Developed a Machine Learning Application using{" "}
                       </span>
                       <span class="c2 c4">Python </span>
                       <span class="c2">and </span>
