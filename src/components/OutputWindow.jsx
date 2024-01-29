@@ -145,47 +145,17 @@ const OutputWindow = () => {
               <div className="sectionTitle | font-semibold text-blue-600">
                 COURSE WORK
               </div>
-              <div className="socialLinkList | mt-1 pl-4">
-                {/* <div className="socialLink text-sm font-semibold leading-[1.2rem] text-gray-800">
-                  Linkedin -{" "}
-                  <a
-                    href="https://www.linkedin.com/in/gokulraja84/"
-                    target="_blank"
-                    className="link | text-blue-500 underline"
-                  >
-                    gokulraja
-                  </a>
-                </div>
-                <div className="socialLink text-sm font-semibold leading-[1.2rem] text-gray-800">
-                  Github -{" "}
-                  <a
-                    href="https://github.com/Gokul-Raja84"
-                    target="_blank"
-                    className="link | text-blue-500 underline"
-                  >
-                    Gokul-Raja84
-                  </a>
-                </div>
-                <div className="socialLink text-sm font-semibold leading-[1.2rem] text-gray-800">
-                  Portfolio -{" "}
-                  <a
-                    href="https://gokulraja.rocks/"
-                    target="_blank"
-                    className="link | text-blue-500 underline"
-                  >
-                    gokulraja.rocks
-                  </a>
-                </div>
-                <div className="socialLink text-sm font-semibold leading-[1.2rem] text-gray-800">
-                  HackerRank -{" "}
-                  <a
-                    href="https://www.hackerrank.com/profile/gokulraja840"
-                    target="_blank"
-                    className="link | text-blue-500 underline"
-                  >
-                    Gokulraja840
-                  </a>
-                </div> */}
+              <div class="mt-1 mt-2 list-disc text-sm leading-[1.2rem] text-gray-600 ">
+                <span class="c2">
+                  Object Oriented Programming - Computer Networks -
+                </span>
+                <span class="c2">
+                  {" "}
+                  Artificial Intelligence - Cloud Computing -
+                </span>
+                <span class="c2"> Data Science </span>
+                <br></br>
+                <span class="c2"> Web Development - Deep Learning</span>
               </div>
             </div>
             <br />
