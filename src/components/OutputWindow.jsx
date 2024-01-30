@@ -358,6 +358,16 @@ const OutputWindow = () => {
                       <span class="c2 c4">Forecasting</span>
                       <span class="c2">.</span>
                     </li>
+                    <li class="mt-1 text-sm leading-[1.2rem] text-gray-600">
+                      <span class="c2">
+                        Enhanced dashboard performance and responsiveness by
+                        streamlining and optimizing
+                      </span>
+                      <span class="c2">
+                        <strong> Power BI data models.</strong>
+                      </span>
+                      <span class="c2"></span>
+                    </li>
                   </ul>
                 </div>
               </div>
