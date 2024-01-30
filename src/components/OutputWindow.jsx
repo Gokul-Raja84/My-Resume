@@ -20,7 +20,7 @@ const OutputWindow = () => {
             </div>
             <br />
 
-            <div className="educationSection | mt-10">
+            <div className="educationSection | mt-9">
               <div className="sectionTitle | font-semibold text-blue-600">
                 EDUCATION
               </div>
@@ -188,7 +188,7 @@ const OutputWindow = () => {
               <div>Chennai, Tamil Nadu</div>
             </div>
 
-            <div className="projectSection |  mt-6">
+            <div className="projectSection |  mt-5">
               <div className="sectionTitle |  font-semibold text-blue-600">
                 PROJECTS
               </div>
