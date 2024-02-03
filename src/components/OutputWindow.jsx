@@ -129,7 +129,7 @@ const OutputWindow = () => {
                 <div className="skill text-sm font-semibold leading-[1.2rem] text-gray-800">
                   Python - SQL <br />
                   Machine Learning - JavaScript <br />
-                  Data Analysis - Power BI - UI/UX <br />
+                  Data Analysis - UI/UX <br />
                   <br /> Attentive learner - Analytical Thinker - <br />
                   Articulate Communication
                   <br />
@@ -256,8 +256,8 @@ const OutputWindow = () => {
                       <span class="c2">Conducted Spotify EDA using</span>
                       <span class="c2 c4">&nbsp;</span>
                       <span class="c2">Python</span>
-                      <span class="c2 c4">, NumPy, Pandas, </span>
-                      <span class="c2">and </span>
+                      <span class="c2 c4">, NumPy, Pandas, SQL</span>
+                      <span class="c2"> and </span>
                       <span class="c2 c4">Matplotlib</span>
                       <span class="c2">&nbsp;to extract insights from a</span>
                       <span class="c2 c4">&nbsp;</span>
@@ -311,7 +311,7 @@ const OutputWindow = () => {
                       </span>
                       <span class="c2 c4">Vertex AI </span>
                       <span class="c2">& </span>
-                      <span class="c2 c4">Imagen 2 API,</span>
+                      <span class="c2 c4">Imagen 2 API, </span>
                       <span class="c2">
                         for efficient <span class="c2 c4">AI</span> Image
                         Generation.
