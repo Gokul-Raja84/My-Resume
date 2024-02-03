@@ -406,9 +406,9 @@ const OutputWindow = () => {
                 </span>
                 <span class="c2">
                   using Deep Learning, catering to the needs of both
-                  <span class="c2 c4"> Students</span> and Educators and
-                  Proposed it at <span class="c2 c4">TNSCST </span>Student
-                  Proposal.
+                  <span class="c2 c4"> Students</span> -
+                  <span class="c2 c4">Educators</span> and Proposed it at{" "}
+                  <span class="c2 c4">TNSCST </span>Student Proposal.
                 </span>
               </div>
               {/* </ul> */}
