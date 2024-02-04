@@ -188,7 +188,7 @@ const OutputWindow = () => {
               <div>Chennai, Tamil Nadu</div>
             </div>
 
-            <div className="projectSection |  mt-5">
+            <div className="projectSection |  mt-4">
               <div className="sectionTitle |  font-semibold text-blue-600">
                 PROJECTS
               </div>
@@ -354,17 +354,22 @@ const OutputWindow = () => {
                       <span class="c2 c4">POWER BI</span>
                       <span class="c2">&nbsp;using Data Analysis, </span>
                       <span class="c2 c4">Data Modeling</span>
-                      <span> and Data Visualization along with </span>
+                      <span class="c2">
+                        {" "}
+                        and Data Visualization along with{" "}
+                      </span>
                       <span class="c2 c4">Forecasting</span>
                       <span class="c2">.</span>
                     </li>
                     <li class="mt-1 text-sm leading-[1.2rem] text-gray-600">
                       <span class="c2">
-                        Enhanced dashboard performance and responsiveness by
-                        streamlining and optimizing
+                        Optimized Power BI data models, resulting in enhanced
+                        dashboard performance and responsiveness, creating
+                        interactive visualizations that increased data
+                        exploration efficiency by 40%.
                       </span>
                       <span class="c2">
-                        <strong> Power BI data models.</strong>
+                        <strong></strong>
                       </span>
                       <span class="c2"></span>
                     </li>
