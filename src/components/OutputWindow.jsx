@@ -166,8 +166,8 @@ const OutputWindow = () => {
               <span class="c2">Served as one of the </span>
               <span class="c2 c4">Department Representative </span>
               <span class="c2">
-                of IT Department and member of Google Student Developer <br />
-                Club SRMIST.
+                of IT Department and an active Participant of Google Student
+                Developer Club SRMIST.
               </span>
             </div>
           </div>
