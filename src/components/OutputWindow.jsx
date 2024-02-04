@@ -1,10 +1,10 @@
 const OutputWindow = () => {
   return (
     <div className="outputWindowContainer | flex h-full w-full items-center justify-center p-8">
-      <div className="outputWindow | w-[750px] bg-white [aspect-ratio:1/1.5]">
+      <div className="outputWindow | w-[775px] bg-white [aspect-ratio:1/1.5]">
         <div className="mainContainer | flex h-full gap-6 py-16 px-10">
           <div className="column | w-[50%]">
-            <div className="fullName | whitespace-nowrap text-5xl font-semibold text-blue-600">
+            <div className="fullName | whitespace-nowrap text-5xl font-semibold text-blue-500">
               <a
                 href="https://gokul-raja84.github.io/My-Resume/"
                 target="_blank"
@@ -378,10 +378,11 @@ const OutputWindow = () => {
               </div>
             </div>
             <br />
+
             <div className="sectionTitle | font-semibold text-blue-600">
               RESEARCH & PROPOSAL
             </div>
-            <div className="project | mt-2">
+            <div className="project | mt-">
               <div className="projectTitle">
                 <span className="font-semibold">MATH SCRIBBLE | </span>
                 <span className="educationPeriod | text-xs text-gray-700">
