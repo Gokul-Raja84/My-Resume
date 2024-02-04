@@ -42,7 +42,7 @@ const OutputWindow = () => {
                       <a className="text-xs leading-normal text-gray-500">
                         CGPA
                       </a>{" "}
-                      <a class="c4">9.39</a> - 6th Semester
+                      <a class="c4">9.38</a> - 7th Semester
                     </li>
                   </ul>
                 </div>
