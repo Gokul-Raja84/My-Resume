@@ -137,7 +137,7 @@ const OutputWindow = () => {
                   <br />
                   <span className="c4 c2"> Familiar:</span>
                   <br />
-                  AWS, Excel, Node.js, API
+                  AWS, Excel, Node.js, API, Firebase
                 </div>
               </div>
             </div>
