@@ -106,17 +106,15 @@ const OutputWindow = () => {
                     </a>
                   </span>
                 </div>
-                <div className="workPeriod | text-xs text-gray-700">
+                <div className="workPeriod | text-xs text-gray-600">
                   July 23 - Oct 23
                 </div>
-                <div className="workDescription | pl-6">
-                  <ul className="list-disc">
-                    <li className="mt-1 text-sm leading-[1.2rem] text-gray-600">
-                      Community of Students, Leading collaborative teams in
-                      creative direction, concept development, and client
-                      engagement for progressive design solutions.
-                    </li>
-                  </ul>
+                <div class="mt-1 text-sm leading-[1.2rem] text-gray-600">
+                  <span class="c2">
+                    Community of Students, Leading collaborative teams in
+                    creative direction, concept development, and client
+                    engagement for progressive design solutions.
+                  </span>
                 </div>
               </div>
             </div>
@@ -146,22 +144,17 @@ const OutputWindow = () => {
               <div className="sectionTitle | font-semibold text-blue-600">
                 COURSE WORK
               </div>
-              <div class="mt-1 mt-2 list-disc text-sm leading-[1.2rem] text-gray-600 ">
+              <div class="mt-1 text-sm leading-[1.2rem] text-gray-600">
                 <span class="c2">
-                  Object Oriented Programming - Data Structures -
+                  Object Oriented Programming - Data Structures
+                  <br />
+                  Artificial Intelligence - DBMS - Data Science
+                  <br /> Web Development - Deep Learning - AWS Cloud
                 </span>
-                <br />
-                <span class="c2">
-                  {" "}
-                  Artificial Intelligence - Cloud Computing -
-                </span>
-                <span class="c2"> Data Science </span>
-                <br></br>
-                <span class="c2"> Web Development - Deep Learning</span>
               </div>
             </div>
             <br />
-            <div className="sectionTitle | font-semibold text-blue-600">
+            <div className="sectionTitle | mt- font-semibold text-blue-600">
               Position
             </div>
             <div class="mt-1 text-sm leading-[1.2rem] text-gray-600">
@@ -388,7 +381,7 @@ const OutputWindow = () => {
               <div className="projectTitle">
                 <span className="font-semibold">MATH SCRIBBLE | </span>
                 <span className="educationPeriod | text-xs text-gray-700">
-                  July 23 - Nov 23
+                  Aug 23 - Nov 23
                 </span>
                 <br />
                 <span class="socialLink text-sm font-semibold leading-[1.2rem] text-gray-800">
