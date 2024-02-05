@@ -129,7 +129,8 @@ const OutputWindow = () => {
                 <div className="skill text-sm font-semibold leading-[1.2rem] text-gray-800">
                   Python - SQL <br />
                   Machine Learning - JavaScript <br />
-                  Data Analysis - UI/UX <br />
+                  Data Analysis - UI/UX - Debugging
+                  <br />
                   <br /> Attentive learner - Analytical Thinker - <br />
                   Articulate Communication
                   <br />
@@ -147,8 +148,9 @@ const OutputWindow = () => {
               </div>
               <div class="mt-1 mt-2 list-disc text-sm leading-[1.2rem] text-gray-600 ">
                 <span class="c2">
-                  Object Oriented Programming - Computer Networks -
+                  Object Oriented Programming - Data Structures -
                 </span>
+                <br />
                 <span class="c2">
                   {" "}
                   Artificial Intelligence - Cloud Computing -
