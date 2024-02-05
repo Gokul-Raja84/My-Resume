@@ -196,7 +196,7 @@ const OutputWindow = () => {
                       href="https://gokul-raja84.github.io/DigitGlyph/"
                       target="_blank"
                     >
-                      - Web App
+                      - Machine Learning App
                     </a>
                   </span>
                   <span class="c27 c52">&nbsp;</span>
