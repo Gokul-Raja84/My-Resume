@@ -254,14 +254,11 @@ const OutputWindow = () => {
                       <span class="c2 c4">, NumPy, Pandas, SQL</span>
                       <span class="c2"> and </span>
                       <span class="c2 c4">Matplotlib</span>
-                      <span class="c2">&nbsp;to extract insights from a</span>
-                      <span class="c2 c4">&nbsp;</span>
-                      <span class="c2">
-                        Spotify music dataset showcasing, proficiency in
-                      </span>
+                      <span class="c2">&nbsp;to extract insights</span>
+                      <span class="c2">, showcasing proficiency in</span>
                       <span class="c2 c4">&nbsp;Data analysis </span>
                       <span class="c2">and </span>
-                      <span class="c37 c2 c4">visualization skills.</span>
+                      <span class="c37 c2 c4">Visualization skills.</span>
                     </li>
                     <li class="mt-1 text-sm leading-[1.2rem] text-gray-600">
                       <span class="c2">Unveiled </span>
