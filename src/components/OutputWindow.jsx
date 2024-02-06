@@ -250,26 +250,29 @@ const OutputWindow = () => {
                     <li class="mt-1 text-sm leading-[1.2rem] text-gray-600">
                       <span class="c2">Conducted Spotify EDA using</span>
                       <span class="c2 c4">&nbsp;</span>
-                      <span class="c2">Python</span>
+                      <span class="c2 c4">Python</span>
                       <span class="c2 c4">, NumPy, Pandas, SQL</span>
                       <span class="c2"> and </span>
                       <span class="c2 c4">Matplotlib</span>
                       <span class="c2">&nbsp;to extract insights from a</span>
                       <span class="c2 c4">&nbsp;</span>
-                      <span class="c2">Spotify music dataset</span>
-                      <span class="c2 c4">.</span>
+                      <span class="c2">
+                        Spotify music dataset showcasing, proficiency in
+                      </span>
+                      <span class="c2 c4">&nbsp;Data analysis </span>
+                      <span class="c2">and </span>
+                      <span class="c37 c2 c4">visualization skills.</span>
                     </li>
                     <li class="mt-1 text-sm leading-[1.2rem] text-gray-600">
                       <span class="c2">Unveiled </span>
                       <span class="c2 c4">patterns </span>
                       <span class="c2">
-                        in song popularity, identified audio attribute
-                        correlations, and tracked the evolution of music genres,
-                        demonstrating
+                        in song popularity, audio attribute correlations,
+                        tracked the evolution of music genres, leading to
+                        strategic insights and resulting in a{" "}
+                        <span class="c2 c4"> 15%</span> improvement in
+                        personalized music recommendations.
                       </span>
-                      <span class="c2 c4">&nbsp;Data analysis </span>
-                      <span class="c2">and </span>
-                      <span class="c37 c2 c4">visualization skills.</span>
                     </li>
                   </ul>
                 </div>
@@ -360,8 +363,9 @@ const OutputWindow = () => {
                       <span class="c2">
                         Optimized Power BI data models, resulting in enhanced
                         dashboard performance and responsiveness, creating
-                        interactive visualizations that increased data
-                        exploration efficiency by 40%.
+                        interactive visualizations that increased{" "}
+                        <span class="c2 c4">data exploration </span> efficiency
+                        by <span class="c2 c4">40%</span>.
                       </span>
                       <span class="c2">
                         <strong></strong>
