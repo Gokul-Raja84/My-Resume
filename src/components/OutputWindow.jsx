@@ -15,7 +15,9 @@ const OutputWindow = () => {
             </div>
             <div className="">
               <p class="c63">
-                <span class="c12 c4 c67">Backend Developer & Data Analyst</span>
+                <span class="c12 c4 c67">
+                  Software Developer & Data Analyst
+                </span>
               </p>
             </div>
             <br />
@@ -125,8 +127,8 @@ const OutputWindow = () => {
               </div>
               <div className="skillList">
                 <div className="skill text-sm font-semibold leading-[1.2rem] text-gray-800">
-                  Python - SQL <br />
-                  Machine Learning - JavaScript <br />
+                  Python - Java <br />
+                  SQL - Machine Learning <br />
                   Data Analysis - UI/UX - Debugging
                   <br />
                   <br /> Attentive learner - Analytical Thinker - <br />
@@ -135,7 +137,7 @@ const OutputWindow = () => {
                   <br />
                   <span className="c4 c2"> Familiar:</span>
                   <br />
-                  AWS, Excel, Node.js, API, Firebase
+                  AWS, Excel, JavaScript, API, Firebase
                 </div>
               </div>
             </div>
