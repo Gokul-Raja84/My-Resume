@@ -15,9 +15,7 @@ const OutputWindow = () => {
             </div>
             <div className="">
               <p class="c63">
-                <span class="c12 c4 c67">
-                  Software Developer & Data Analyst
-                </span>
+                <span class="c12 c4 c67">Software Developer</span>
               </p>
             </div>
             <br />
@@ -327,7 +325,7 @@ const OutputWindow = () => {
                   </ul>
                 </div>
               </div>
-              <div className="project | mt-2">
+              {/* <div className="project | mt-2">
                 <div className="projectTitle">
                   <span className="font-semibold">
                     Dynamic Power BI Dashboards{" "}
@@ -373,7 +371,7 @@ const OutputWindow = () => {
                     </li>
                   </ul>
                 </div>
-              </div>
+              </div> */}
             </div>
             <br />
 
