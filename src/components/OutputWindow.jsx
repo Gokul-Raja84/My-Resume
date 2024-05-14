@@ -205,7 +205,10 @@ const OutputWindow = () => {
                 </div>
                 <div className="projectDescription | pl-6">
                   <ul class="mt-2 list-disc">
-                    <li class="mt-1 text-sm leading-[1.2rem] text-gray-600">
+                    <li
+                      class="mt-1 text-sm leading-[1.2rem] text-gray-600"
+                      style={{ textAlign: "justify" }}
+                    >
                       <span class="c2">
                         Developed a Machine Learning Application using{" "}
                       </span>
@@ -216,15 +219,20 @@ const OutputWindow = () => {
                       <span class="c2 c4">99.15% accuracy </span>
                       <span class="c2">in recognizing handwritten digits.</span>
                     </li>
-                    <li class="mt-1 text-sm leading-[1.2rem] text-gray-600">
+                    <li
+                      class="mt-1 text-sm leading-[1.2rem] text-gray-600"
+                      style={{ textAlign: "justify" }}
+                    >
                       <span class="c2">
-                        Created an interactive user interface with
+                        Created an Interactive user interface with
                       </span>
                       <span class="c2 c4">&nbsp;</span>
-                      <span class="c2">TensorFlow.js </span>
-                      <span class="c2">and hosted the project on</span>
-                      <span class="c2 c4">&nbsp;GitHub Pages</span>
-                      <span class="c2">&nbsp;for global accessibility.</span>
+                      <span class="c2 c4">TensorFlow</span>
+                      <span class="c2">.js and hosted the project on</span>
+                      <span class="c2 c4">&nbsp;GitHub</span>
+                      <span class="c2">
+                        &nbsp;Pages for global accessibility.
+                      </span>
                     </li>
                   </ul>
                 </div>
@@ -247,7 +255,10 @@ const OutputWindow = () => {
                 </div>
                 <div className="projectDescription | pl-6">
                   <ul class="mt-2 list-disc">
-                    <li class="mt-1 text-sm leading-[1.2rem] text-gray-600">
+                    <li
+                      class="mt-1 text-sm leading-[1.2rem] text-gray-600"
+                      style={{ textAlign: "justify" }}
+                    >
                       <span class="c2">Conducted Spotify EDA using</span>
                       <span class="c2 c4">&nbsp;</span>
                       <span class="c2 c4">Python</span>
@@ -260,7 +271,10 @@ const OutputWindow = () => {
                       <span class="c2">and </span>
                       <span class="c37 c2 c4">Visualization skills.</span>
                     </li>
-                    <li class="mt-1 text-sm leading-[1.2rem] text-gray-600">
+                    <li
+                      class="mt-1 text-sm leading-[1.2rem] text-gray-600"
+                      style={{ textAlign: "justify" }}
+                    >
                       <span class="c2">Unveiled </span>
                       <span class="c2 c4">patterns </span>
                       <span class="c2">
@@ -299,7 +313,10 @@ const OutputWindow = () => {
                 </div>
                 <div className="projectDescription | pl-6">
                   <ul className="mt-2 list-disc">
-                    <li class="mt-1 text-sm leading-[1.2rem] text-gray-600">
+                    <li
+                      class="mt-1 text-sm leading-[1.2rem] text-gray-600"
+                      style={{ textAlign: "justify" }}
+                    >
                       <span class="c2">
                         Engineered a Text to Image generation, ImaGenX,
                         integrated advanced technologies, including Google's{" "}
@@ -312,7 +329,10 @@ const OutputWindow = () => {
                         Generation.
                       </span>
                     </li>
-                    <li class="mt-1 text-sm leading-[1.2rem] text-gray-600">
+                    <li
+                      class="mt-1 text-sm leading-[1.2rem] text-gray-600"
+                      style={{ textAlign: "justify" }}
+                    >
                       <span class="c2">Designed and implemented a </span>
                       <span class="c2 c4">
                         <strong>Full-stack </strong>
@@ -376,43 +396,34 @@ const OutputWindow = () => {
             <br />
 
             <div className="sectionTitle | font-semibold text-blue-600">
-              RESEARCH & PROPOSAL
+              RESEARCH & PUBLICATION
             </div>
             <div className="project | mt-">
               <div className="projectTitle">
-                <span className="font-semibold">MATH SCRIBBLE | </span>
+                <span className="font-semibold">Network Security ACGAN | </span>
                 <span className="educationPeriod | text-xs text-gray-700">
-                  Aug 23 - Nov 23
+                  Jan 2024 - May 2024
                 </span>
                 <br />
                 <span class="socialLink text-sm font-semibold leading-[1.2rem] text-gray-800">
                   HEAD UNDERGRADUATE RESEARCHER
                 </span>
-
-                {/* <span class="c11 c14">
-                  <a
-                    class="c22"
-                    href="https://www.google.com/url?q=https://gokul-raja84.github.io/DigitGlyph/&amp;sa=D&amp;source=editors&amp;ust=1703786697936159&amp;usg=AOvVaw2WQD1kPTyWjV-IqZYdpYVi"
-                  >
-                    - Github
-                  </a>
-                </span> */}
               </div>
-              {/* <div className="projectDescription | pl-6"> */}
-              {/* <ul className="mt-2 list-disc"> */}
-              <div class="mt-1 text-sm leading-[1.2rem] text-gray-600">
-                <span class="c2">Led the development of a </span>
-                <span class="c2 c4">
-                  Real-time Handwritten Math Expressions Recognition &
-                  Calculation System{" "}
-                </span>
+              <div
+                class="mt-1 text-sm leading-[1.2rem] text-gray-600"
+                style={{ textAlign: "justify" }}
+              >
                 <span class="c2">
-                  using Deep Learning, catering to the needs of both
-                  <span class="c2 c4"> Students</span> -
-                  <span class="c2 c4">Educators</span> and Proposed it at{" "}
-                  <span class="c2 c4">TNSCST </span>Student Proposal.
+                  Led dynamic team developing innovative network security
+                  solution using{" "}
+                </span>
+                <span class="c2 c4">AC-GANs, ML & AI. </span>
+                <span class="c2">
+                  Achieved ~90% accuracy in ML results and Demonstrated{" "}
+                  <span class="c2 c4">Leadership & Technical expertise.</span>
                 </span>
               </div>
+
               {/* </ul> */}
               {/* </div> */}
             </div>
