@@ -421,6 +421,12 @@ const OutputWindow = () => {
                 <span class="c2">
                   Achieved ~90% accuracy in ML results and Demonstrated{" "}
                   <span class="c2 c4">Leadership & Technical expertise.</span>
+                  <span>
+                    {" "}
+                    Published research findings in a prestigious academic
+                    journal, contributing valuable insights to the field of
+                    network security.
+                  </span>
                 </span>
               </div>
 
