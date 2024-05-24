@@ -241,12 +241,12 @@ const OutputWindow = () => {
                 <div className="projectTitle">
                   <span className="font-semibold">
                     {" "}
-                    Exploratory Data Analysis{" "}
+                    Exploratory Data Analysis & Music Recommendation{" "}
                   </span>
                   <span class="c11 c14">
                     <a
                       class="c22"
-                      href="https://github.com/Gokul-Raja84/Spotify-Data-Analysis"
+                      href="https://github.com/Gokul-Raja84/Spotify-Music-Recommendation-and-Data-Analysis"
                       target="_blank"
                     >
                       - Github
