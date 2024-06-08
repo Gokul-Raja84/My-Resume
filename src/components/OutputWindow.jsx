@@ -1,7 +1,7 @@
 const OutputWindow = () => {
   return (
     <div className="outputWindowContainer | flex h-full w-full items-center justify-center p-8">
-      <div className="outputWindow | w-[775px] bg-white [aspect-ratio:1/1.5]">
+      <div className="outputWindow | w-[800px] bg-white [aspect-ratio:1/1.5]">
         <div className="mainContainer | flex h-full gap-6 py-16 px-10">
           <div className="column | w-[50%]">
             <div className="fullName | whitespace-nowrap text-5xl font-semibold text-blue-500">
@@ -42,7 +42,7 @@ const OutputWindow = () => {
                       <a className="text-xs leading-normal text-gray-500">
                         CGPA
                       </a>{" "}
-                      <a class="c4">9.38</a> - 7th Semester
+                      <a class="c4">9.45</a>
                     </li>
                   </ul>
                 </div>
@@ -177,10 +177,10 @@ const OutputWindow = () => {
               <a href="mailto:gokulraja840@gmail.com" target="_blank">
                 gokulraja840@gmail.com
               </a>
-              <a href="https://gokulraja.rocks/" target="_blank">
-                www.gokulraja.rocks
+              <a href="https://gokul-raja84.github.io/" target="_blank">
+                gokul-raja84.github.io
               </a>
-              <div>Chennai, Tamil Nadu</div>
+              <div>Madurai, Tamil Nadu</div>
             </div>
 
             <div className="projectSection |  mt-4">
@@ -290,7 +290,7 @@ const OutputWindow = () => {
               </div>
               <div className="project | mt-2">
                 <div className="projectTitle">
-                  <span className="font-semibold">ImaGenX </span>
+                  <span className="font-semibold">ImaGenX-AI </span>
                   <span class="c11 c14">
                     <a
                       class="c22"
